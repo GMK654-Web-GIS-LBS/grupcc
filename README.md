@@ -14,7 +14,7 @@ At the same time, in the later stages of the project, it is to expand this web-b
 - To produce a usable and developable project.
 # 4. Project Description
 Within the scope of this project, it is aimed to visualize and present the city bicycle network of the Helsinki region within the scope of Geographic Information Systems.
-In this context, dataset research was conducted. The raw dataset used can be accessed at https://www.kaggle.com/code/geometerin/helsinki-city-bike-network-analysis/notebook. Relevant data columns were extracted from the obtained raw data. For example, data that do not need to be used such as temperature in the raw data are eliminated.
+In this context, dataset research was conducted. The raw dataset used can be accessed at https://www.kaggle.com/code/geometrein/helsinki-city-bike-network-analysis/notebook. Relevant data columns were extracted from the obtained raw data. For example, data that do not need to be used such as temperature in the raw data are eliminated.
 Python/Django will be used as backend technology and ReactJS will be used as frontend technology. In the next stages, React Native will be used for mobile application.
 SQLite will be used as a database for practicality during the development phase. In the deployment phase, MYSQL database technology will be integrated.
 HEROKU (https://www.heroku.com) has been preferred as the service provider.
@@ -35,7 +35,7 @@ HEROKU (https://www.heroku.com) has been preferred as the service provider.
 - Git Repository
 	*  GitHub (https://github.com/GMK654-Web-GIS-LBS/grupcc)
 - Dataset
-	*  Kaggle (https://www.kaggle.com/code/geometerin/helsinki-city-bike-network-analysis/notebook)
+	*  Kaggle (https://www.kaggle.com/code/geometrein/helsinki-city-bike-network-analysis/notebook)
 # 6. Work Packages
 - Finding the dataset, examining it, taking the appropriate parts for the project.
 - Initialization of the backend side.
@@ -48,3 +48,4 @@ HEROKU (https://www.heroku.com) has been preferred as the service provider.
 - Preparation of the project document.
 - Mobile application development.
 # 7. Gantt Chart of Milestones
+
